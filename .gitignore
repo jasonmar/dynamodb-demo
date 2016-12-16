@@ -1,0 +1,5 @@
+*.sc
+*.ipr
+*.iws
+target/
+.idea/
